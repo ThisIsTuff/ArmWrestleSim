@@ -1,0 +1,22 @@
+-- will use this when i renew luraph
+local AllEnchants = {
+    "Winner Winner I",
+    "Winner Winner II",
+    "Winner Winner III",
+    "Winner Winner IV",
+    "Winner Winner V",
+    "Lucky I",
+    "Lucky II",
+    "Lucky III",
+    "Lucky IV",
+    "Lucky V",
+    "Best Friend I",
+    "Best Friend II",
+    "Best Friend III",
+    "Best Friend IV",
+    "Best Friend V",
+    "Key Finder I",
+    "Key Finder II",
+    "Key Finder III"
+}
+return AllEnchants
