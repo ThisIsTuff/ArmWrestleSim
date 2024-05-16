@@ -15,6 +15,7 @@ local AllEnchants = {
     "Best Friend III",
     "Best Friend IV",
     "Best Friend V", -- is this still enchantable?
+    "Best Friend VI", 
     "Key Finder I",
     "Key Finder II",
     "Key Finder III"
