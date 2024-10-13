@@ -18,6 +18,7 @@ local AllEnchants = {
     "Best Friend VI", 
     "Key Finder I",
     "Key Finder II",
-    "Key Finder III"
+    "Key Finder III",
+    "Candy Thief III"
 }
 return AllEnchants
